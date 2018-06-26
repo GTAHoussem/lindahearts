@@ -1,0 +1,13 @@
+@font-face{
+    font-family: brandFont;
+    src: url('fonts/Candle Mustard.ttf')
+}
+
+.navbar-brand{
+    font-family: brandFont;
+}
+
+.img-fluid{
+    height: 400px;
+    width: 475px;
+}
